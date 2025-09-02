@@ -1,0 +1,5 @@
+ro.treble.enabled=true
+sys.usb.controller=musb-hdrc
+ro.boot.dynamic_partitions=true
+ro.vendor.rc=/vendor/etc/init/hw/
+persist.service.adb.root=1
